@@ -22,3 +22,17 @@ Other risk factors are based on lifestyle, genetics, and environment.
 **Viral infections or conditions**, such as lupus or rheumatoid arthritis, can cause inflammation.
 
 Information link : https://www.nhlbi.nih.gov/health/stroke/causes
+
+
+
+
+# Conclusion
+**ROC (Receiver Operating Characteristic) Curve** is a graphical method used to evaluate the performance of classification models. It illustrates the trade-off between the **True Positive Rate (TPR)** and the **False Positive Rate (FPR)** at different classification thresholds.
+
+**AUC (Area Under the ROC Curve)** represents the area under the ROC curve and provides an overall measure of a classification model's ability to distinguish between the positive and negative classes.
+
+A good classification model should achieve a **high True Positive Rate** while maintaining a **low False Positive Rate**. Therefore, a higher AUC generally indicates better overall discriminatory performance.
+
+Based on the ROC curve, **Logistic Regression achieved the highest AUC among the three models**, indicating that it had the best ability to distinguish between patients with and without stroke in this dataset. Therefore, Logistic Regression was selected as the best-performing model among **Logistic Regression, Decision Tree, and Random Forest** for stroke prediction in this study.
+
+The **p-values** from the statistical comparison also indicated that the performance differences among the three models were **statistically significant**.
