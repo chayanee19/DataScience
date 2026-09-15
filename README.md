@@ -7,7 +7,7 @@ I use this repository to document my projects, analytical approaches, and the sk
 
 ---
 
-## 👩🏻‍💻 About Me
+## About Me
 
 I am a **Biomedical Data Science master's student** with an interest in using data to understand complex problems and improve decision-making.
 
@@ -27,7 +27,7 @@ My main interests include:
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ### Programming & Data Analysis
 
