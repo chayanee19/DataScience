@@ -1,17 +1,20 @@
 # Data Science Portfolio
 
 Welcome to my **Data Science Portfolio**.
-This repository is a collection of my work in **data analysis, data science, machine learning, statistical analysis, and data visualization**.
 
-I use this repository to document my projects, analytical approaches, and the skills I have developed throughout my academic and personal projects.
+This repository is a collection of my work in **data analysis, data science, statistical analysis, machine learning, data visualization, and biomedical data science**.
+
+I use this repository to document my projects, analytical approaches, and the skills I have developed through academic and personal projects.
+
+My approach focuses not only on building models, but also on **understanding problems, preparing and analyzing data, identifying patterns, evaluating results, and communicating findings clearly**.
 
 ---
 
-## About Me
+# About Me
 
-I am a **Biomedical Data Science master's student** with an interest in using data to understand complex problems and improve decision-making.
+I am a **Biomedical Data Science master's student** with an interest in using data to understand complex problems and support better decision-making.
 
-My background combines **biomedical science, data analysis, programming, and statistical methods**. I enjoy working with data from the initial cleaning and exploration stages through to modeling, visualization, and interpretation.
+My background combines **biomedical science, data analysis, programming, and statistical methods**. I enjoy working with data from cleaning and exploration through to statistical analysis, machine learning, visualization, and interpretation.
 
 My main interests include:
 
@@ -21,13 +24,45 @@ My main interests include:
 * Machine Learning
 * Biomedical Data Science
 * Data Visualization
-* Exploratory Data Analysis (EDA)
+* Exploratory Data Analysis
 * Clustering & Pattern Discovery
 * Interactive Dashboards
 
 ---
 
-## Skills & Tools
+# Projects
+
+## Maternal Health Risk Prediction
+
+**[View Project →](https://github.com/chayanee19/DataScience/tree/main/MaternalHealthRisk_PregnantWomen)**
+
+A machine-learning project predicting **maternal health risk levels** using six basic health measurements: age, blood pressure, blood sugar, body temperature, and heart rate.
+
+* Performed data cleaning, outlier detection, statistical analysis, and feature evaluation.
+* Compared **KNN, SVM, and ANN** classification models.
+* **KNN achieved the highest test accuracy of 77.9%**.
+* High-risk cases were identified relatively well, while mid-risk cases were more difficult to classify.
+
+**Key takeaway:** Simple health measurements can provide useful information for maternal risk screening, although further validation is needed before clinical application.
+
+---
+
+## Stroke Risk Prediction
+
+**[View Project →](https://github.com/chayanee19/DataScience/tree/main/Stroke-Prediction)**
+
+A classification project investigating the ability of machine-learning models to distinguish between patients **with and without stroke**.
+
+* Compared **Logistic Regression, Decision Tree, and Random Forest**.
+* Evaluated model performance using **ROC curves and AUC**.
+* **Logistic Regression achieved the highest AUC** among the tested models.
+* Used statistical comparison to evaluate differences in model performance.
+
+**Key takeaway:** ROC-AUC provides an effective approach for comparing classification models and selecting the best-performing model for a given dataset.
+
+---
+
+# Skills & Tools
 
 ### Programming & Data Analysis
 
@@ -35,40 +70,37 @@ My main interests include:
 * R
 * SQL
 * Excel
-
-### Python Libraries & Tools
-
 * Pandas
 * NumPy
-* Matplotlib
-* Plotly
-* Scikit-learn
-* NetworkX
-* DuckDB
 
-### Data & Visualization
-
-* Exploratory Data Analysis (EDA)
-* Statistical Analysis
-* Data Visualization
-* Interactive Dashboards
-* Data Integration
-* Large-scale Data Processing
-
-### Machine Learning
+### Machine Learning & Statistics
 
 * Classification
 * Regression
 * Clustering
+* Statistical Analysis
 * Model Evaluation
+* Cross-Validation
 * Feature Analysis
 
+### Data Visualization
+
+* Matplotlib
+* Plotly
+* Interactive Visualization
+* Interactive Dashboards
+
+### Data Processing
+
+* DuckDB
+* Parquet
+* Data Cleaning
+* Data Integration
+* Large-scale Data Processing
 
 ---
 
 # My Data Science Workflow
-
-I generally approach a data science problem through the following workflow:
 
 ```text
 Problem
@@ -87,6 +119,8 @@ Statistical Analysis
    ↓
 Machine Learning
    ↓
+Model Evaluation
+   ↓
 Visualization
    ↓
 Interpretation
@@ -94,23 +128,28 @@ Interpretation
 Communication
 ```
 
-The goal is not only to build a model or produce a visualization, but to understand **what the data means and how the results can answer the original question**.
+The goal is not only to build a model or produce a visualization, but to understand **what the data means and how the results answer the original question**.
 
 ---
 
-# What I Am Learning
+# Current Research
 
-I am continuously developing my skills in:
+### Prediction of Transcriptional Regulatory Elements (TREs) Associated with Human Gene Function and Expression
 
-* Advanced Python
-* SQL & DuckDB
-* Machine Learning
-* Statistical Analysis
-* Data Visualization
-* Large-scale Data Processing
-* Interactive Dashboard Development
-* Biomedical Data Analysis
-* Data Storytelling
+My master's research focuses on integrating large-scale biological datasets to investigate relationships between **transcriptional regulatory elements, genes, gene functions, and expression patterns**.
+
+The project involves:
+
+* Large-scale data integration
+* Data cleaning and transformation
+* Gene function and expression analysis
+* Pattern discovery
+* Clustering
+* Network analysis
+* Biological interpretation
+* Interactive dashboard development
+
+This work has provided experience working with **millions of biological records** and heterogeneous data sources using Python, SQL, DuckDB, and columnar data formats.
 
 ---
 
@@ -127,8 +166,7 @@ I am particularly interested in roles involving:
 * Data-driven Process Improvement
 * Machine Learning
 
-I am especially interested in problems where **data, systems, and problem-solving** can be combined to improve an existing process or uncover meaningful patterns.
-
+I am especially interested in problems where **data, systems, and problem-solving** can be combined to improve processes and uncover meaningful patterns.
 
 ---
 
@@ -137,7 +175,7 @@ I am especially interested in problems where **data, systems, and problem-solvin
 **Chayanee Tangjitwattanakul**
 
 * GitHub: [@chayanee19](https://github.com/chayanee19)
-* Email: chayanee19@gmail.com
+* Email: [chayanee19@gmail.com](mailto:chayanee19@gmail.com)
 
 ---
 
